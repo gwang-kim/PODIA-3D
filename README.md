@@ -1,6 +1,6 @@
 # PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion  
 
-[![arXiv](https://img.shields.io/badge/arXiv-2303.XXXXX-red)](https://arxiv.org/abs/2303.XXXXX) [![project_page](https://img.shields.io/badge/-project%20page-green)](https://gwang-kim.github.io/podia_3d/)
+[![arXiv](https://img.shields.io/badge/arXiv-2304.01900-red)](https://arxiv.org/abs/2304.01900) [![project_page](https://img.shields.io/badge/-project%20page-green)](https://gwang-kim.github.io/podia_3d/)
 
 [//]: # ()
 [//]: # ([![arXiv]&#40;https://img.shields.io/badge/paper-cvpr2022-cyan&#41;]&#40;https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html&#41; [![arXiv]&#40;https://img.shields.io/badge/arXiv-2110.02711-red&#41;]&#40;https://arxiv.org/abs/2110.02711&#41;)
