@@ -1,4 +1,4 @@
-# PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion  
+## PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion <br><sub>Official PyTorch implementation of the ICCV 2023 paper</sub>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2304.01900-red)](https://arxiv.org/abs/2304.01900) [![project_page](https://img.shields.io/badge/-project%20page-green)](https://gwang-kim.github.io/podia_3d/)
 
@@ -19,8 +19,8 @@
 [comment]: <> (![]&#40;imgs/main2.png&#41;)
 
 > **PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**<br>
-> [Gwanghyun Kim](https://gwang-kim.github.io/), [Se Young Chun](https://icl.snu.ac.kr/pi) <br>
-> 
+> [Gwanghyun Kim](https://gwang-kim.github.io/), Ji Ha Jang, [Se Young Chun](https://icl.snu.ac.kr/pi) <br>
+> ICCV 2023<br>
 > 
 >**Abstract**: <br>
 Recently, significant advancements have been made in 3D generative models, however training these models across diverse domains is challenging and requires an enormous amount of training data and knowledge of pose distribution.
